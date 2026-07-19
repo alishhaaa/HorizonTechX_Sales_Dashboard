@@ -57,5 +57,5 @@ The dashboard enables stakeholders to:
 
 **Alisha Khan**
 
-BCA Student | Aspiring Data Analyst | Data Science & AI Enthusiast
+BCA Student | Aspiring Data Analyst | Data Science & AI Enthusiast | Public Speaking
 
